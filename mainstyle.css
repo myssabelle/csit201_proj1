@@ -3,6 +3,7 @@ body
     background: url('images/yellow_background.png');
     font-family: 'Trebuchet MS', Arial, sans-serif;
     color:#181818;
+    margin: 0 30px;
 }
 
 #main_wrapper
