@@ -1,0 +1,4 @@
+nav li, .red_button,#tweet, #my_pictures, #my_friends, #my_friends ul,#logo, header h1, article, aside {
+    display: inline;
+    zoom:1
+}
