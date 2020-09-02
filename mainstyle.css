@@ -28,6 +28,11 @@ section
     margin: 0 auto;
 }
 
+section h3
+{
+    display: none;
+}
+
 header
 {
     background:url('images/line.png') repeat-x bottom;
