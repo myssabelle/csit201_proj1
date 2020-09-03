@@ -107,6 +107,7 @@ nav a:hover
 {
     margin-top: 15px;
     height: 200px;
+    min-width: 600px;
     border-radius: 5px;
     background: url('images/sanfrancisco.jpg') no-repeat;
     background-size: cover;
