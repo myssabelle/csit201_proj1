@@ -159,6 +159,7 @@ article,aside
 {
     vertical-align:top;
     text-align: justify;
+    display: inline-block;
 }
 
 article
