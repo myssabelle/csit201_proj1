@@ -13,9 +13,3 @@ header{
 {
     top: 860px;
 }
-
-.first, .second
-{
-    display: inline-block;
-    vertical-align: middle;
-}
