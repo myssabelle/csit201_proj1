@@ -275,6 +275,7 @@ footer h2
     width: 48%;
     list-style-image: url('images/external_link.png');
     padding-left: 2px;
+    margin-right: 0px;
 }
 
 #my_friends a
