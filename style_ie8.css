@@ -1,6 +1,6 @@
 .shadow
 {
-	width: 100%;
+	width: 900px;
 	height: 100%;
 	top: 1000px;
 	background: url('images/shadow.png') repeat-x top;
@@ -9,7 +9,7 @@
 
 .arrow
 {
-	width: 100%;
+	width: 900px;
 	height: 100%;
 	top: 1000px;
 	background: url('images/top.png') no-repeat top center;
@@ -18,7 +18,7 @@
 
 .line
 {
-	width: 100%;
+	width: 900px;
 	height: 100%;
 	top: 1000px;
 	background: url('images/line.png') repeat-x top;
