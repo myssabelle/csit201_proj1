@@ -51,6 +51,7 @@ nav
     right: 0;
     bottom: 0;
     z-index: 1;
+    top:0;
 }
 
 header:after {
@@ -164,7 +165,7 @@ article,aside
 
 article
 {
-    width:600px;
+    width:625px;
     margin-right: 15px;
 }
 
