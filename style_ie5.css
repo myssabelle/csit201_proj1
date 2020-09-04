@@ -7,7 +7,9 @@ body
 {
 	text-align: left;
 }
-.arrow
+header
 {
-	display: none;
+    background:url('images/yellow_background.png') repeat-x bottom;
+    position: relative;
+    height:115px;
 }
