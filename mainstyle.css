@@ -55,7 +55,6 @@ nav
 }
 
 header:after {
-    content: "";
     display: block;
     clear:both;
 }
