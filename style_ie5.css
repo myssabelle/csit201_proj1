@@ -15,3 +15,8 @@ footer
 {
 	height: 50px;
 }
+
+.fb, .twit, .vim, .flick, .rss
+{
+	width:40px
+}
