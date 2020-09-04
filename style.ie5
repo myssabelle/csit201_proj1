@@ -1,0 +1,9 @@
+body
+{
+	text-align: center;
+}
+
+#main_wrapper
+{
+	text-align: left;
+}
