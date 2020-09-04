@@ -2,7 +2,7 @@
 {
 	width: 900px;
 	height: 100%;
-	top: 900px;
+	top: 950px;
 	background: url('images/shadow.png') repeat-x top;
 	position: absolute;
 }
@@ -11,7 +11,7 @@
 {
 	width: 900px;
 	height: 100%;
-	top: 900px;
+	top: 950px;
 	background: url('images/top.png') no-repeat top center;
 	position: absolute;
 }
@@ -20,7 +20,7 @@
 {
 	width: 900px;
 	height: 100%;
-	top: 900px;
+	top: 950px;
 	background: url('images/line.png') repeat-x top;
 	position: absolute;
 }
