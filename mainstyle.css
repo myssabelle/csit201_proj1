@@ -74,6 +74,12 @@ header h1
     margin-bottom: 0px;
 }
 
+.ico_categorie
+{
+    display: inline-block;
+    vertical-align: middle;
+}
+
 header h2{
     font-family: Dayrom, serif;
     font-size: 1.1em;
