@@ -15,13 +15,17 @@ footer
 {
 	height: 50px;
 }
-
+.shadow, .arrow, .line
+{
+    top: 865px;
+}
 aside
 {
 	width: 270px;
 }
 article
 {
-    width:590px;
+	width:590px;
+	height: 500px;
     margin-right: 15px;
 }
