@@ -9,3 +9,7 @@ header{
     background:url('images/line.png') repeat-x bottom;
     position: relative;
 }
+.shadow, .arrow, .red_button
+{
+    top: 850px;
+}
